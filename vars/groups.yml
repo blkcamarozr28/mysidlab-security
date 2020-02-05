@@ -1,10 +1,10 @@
 ---
 aws_groups:
-  - fresno
-  - sacramento
-  - losangeles
-  - sanfrancisco
-  - indio
-  - palmsprings
-  - sandiego
-  - napa
+  - blk-fresno
+  - blk-sacramento
+  - blk-losangeles
+  - blk-sanfrancisco
+  - blk-indio
+  - blk-palmsprings
+  - blk-sandiego
+  - blk-napa
