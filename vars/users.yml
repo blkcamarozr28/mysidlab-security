@@ -1,8 +1,8 @@
 ---
 users:
   - name: blk-user1
-    aws_groups: "sacramento, fresno, indio"
+    aws_groups: "blk-sacramento, blk-fresno, blk-indio"
   - name: blk-user2
-    aws_groups: "losangeles, sanfrancisco, napa"
+    aws_groups: "blk-losangeles, blk-sanfrancisco, blk-napa"
   - name: blk-user3
-    aws_groups: "palmsprings, indio, sandiego"
+    aws_groups: "blk-palmsprings, blk-indio, blk-sandiego"
